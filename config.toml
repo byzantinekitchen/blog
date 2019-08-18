@@ -1,5 +1,5 @@
 title = "Byzantine Kitchen"
-baseURL = "byzantinekitchen.github.io"
+baseURL = ""
 languageCode = "en-us"
 theme = "gohugo-theme-ananke"
 themesDir = "themes/"
