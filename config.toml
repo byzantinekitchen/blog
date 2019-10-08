@@ -1,5 +1,5 @@
 title = "Byzantine Kitchen"
-baseURL = ""
+baseURL = "https://byzantinekitchen.github.io/"
 languageCode = "en-us"
 theme = "gohugo-theme-ananke"
 themesDir = "themes/"
@@ -19,7 +19,7 @@ enableRobotsTXT = true
 [params]
   favicon = ""
   description = "Food"
-  facebook = ""
+  facebook = "facebook.com/byzkitchen"
   twitter = ""
   instagram = ""
   youtube = ""
