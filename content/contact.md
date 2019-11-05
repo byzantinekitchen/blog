@@ -10,11 +10,22 @@ menu:
 ---
 
 
-This is an example of a custom shortcode that you can put right into your content. You will need to add a form action to the the shortcode to make it work. Check out [Formspree](https://formspree.io/) for a simple, free form service. 
+Feel free to contact us with feedbacks and suggestions.
 
-{{< form-contact action="https://example.com"  >}}
-<form action="https://formspree.io/email@domain.tld" method="POST">
-  <input type="text" name="name">
-  <input type="email" name="_replyto">
-  <input type="submit" value="Send">
+<form
+  action="https://formspree.io/meqjbbjp"
+  method="POST"
+>
+  <label>
+    Your email:
+    <input type="text" name="_replyto">
+  </label>
+  <label>
+    Your message:
+    <textarea name="message"></textarea>
+  </label>
+
+  <!-- your other form fields go here -->
+
+  <button type="submit">Send</button>
 </form>

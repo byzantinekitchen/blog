@@ -3,10 +3,10 @@ title: "Pesto Risotto"
 date: 2019-09-04T21:04:46+02:00
 tags: ["risotto","pesto"]
 description: "Artichoke and Mushrooms Pesto Risotto"
-featured_image: ''
+featured_image: '/images/risotto_pesto.jpg'
 ---
 
-### Difficulty: very easy
+### Difficulty: easy
 ### Time: 20 minutes
 
 
@@ -30,8 +30,6 @@ featured_image: ''
 
 ## Instructions:
 
-Pre heat oven at 200 degree celsius. Cut the tomatoes in half, place in a baking tray, add olive oil salt and pepper. Place in the oven until roasted.
-Simmer the red lentils with vegetable stock. Once they are cooked, add mascarpone and parsley, and mix. Serve in 4 soup plates.
-In a different pot, poach 4 eggs, add to each plate. Optionally add peas, squash or truffle oil. Garnish with grated cheese.
+
 
 
