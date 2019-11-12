@@ -11,7 +11,7 @@ featured_image: '/images/risotto_pesto.jpg'
 
 
 ## Ingredients (4 people):
-- Risotto rice (250g)
+- Arborio Risotto rice (250g)
 - Artichoke (1)
 - Mushrooms (200g)
 - Mascarpone (125g)
@@ -26,9 +26,16 @@ featured_image: '/images/risotto_pesto.jpg'
 - Basil (150g)
 - Hard Cheese (150g)
 - Olive oil
+- Pine nuts (100g)
 
 
 ## Instructions:
+
+### Pesto
+Blend the ingredients together until smooth.
+
+### Risotto
+Cut the
 
 
 

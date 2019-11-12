@@ -1,14 +1,14 @@
 ---
-title: "Scones and Jam"
+title: "Chia seed Jam (To finish)"
 date: 2019-09-04T21:04:46+02:00
 tags: ["desert","no added sugar", "jam", "scone"]
-description: "Scones and rasperries and chia confiture"
+description: "Fruits and chia confiture"
 featured_image: 'images/jam.jpg'
 ---
 
-### Difficulty: medium
-### Time: 20 minutes
-
+### Difficulty: easy
+### Time: 10 minutes
+<!---
 
 ## Ingredients Scones:
 - Self raising flour
@@ -16,16 +16,21 @@ featured_image: 'images/jam.jpg'
 - Milk (dairy or not) (250 ml)
 - Butter
 - Egg (1)
-
+-->
 
 ## Ingredients Jam:
-- Raspberries
-- Blueberries
+- Fruits (e.g. Raspberries, Blueberries)
 - Chia seed
+
+### Optional:
 - Agave syrup (1 tsp)
+- Lemon 
+- Vanilla Extract
+- Almond Extract
 
 
 ## Instructions: 
+Heat the fruits in a pan until broken down. Add the chia seeds, syrup, lemon and extracts.
 
 
 

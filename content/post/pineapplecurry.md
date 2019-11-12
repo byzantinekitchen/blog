@@ -32,6 +32,8 @@ featured_image: ""
 
 ## Instructions
 
-Start with a huge pot, put some coconut oil in and add the garlic/shallots (a lot) until they're starting to fry. Add the turmeric/ginger/red curry paste, mix and so on. Add the potatoes/carrots/peppers and mix so that the spices are spread out properly, give it a bit of time for the flavour to absorb. Add the coconut milk so that the vegetables can boil (~ 3 400ml cans), soy sauce and pineapple, leave it until the vegetables are cooked (put a fork through a piece of potato). Add the tofu (I compress while I'm doing the rest so that it becomes firmer) and kale. 
+Start with a huge pot, put some coconut oil in and add the garlic andshallots until they are starting to fry. Add the turmeric,ginger,red curry paste, and mix. Add the potatoes,carrots,peppers and mix so that the spices are spread out properly, give it a bit of time for the flavour to absorb. Add the coconut milk so that the vegetables can boil (~ 3 x 400ml cans), soy sauce and pineapple, leave it until the vegetables are cooked (put a fork through a piece of potato). Add the tofu and kale. 
 
-For the quinoa, cook it in stock since it absorbs a lot of the liquid this actually makes a noticeable difference. The chickpeas I get canned and just put into the quinoa once it's ready, also leave the quinoa to rest for a bit once it's ready so that it absorbs as much of the stock as possible. Serve the curry on the quinoa and you can add coriander/lemon/peanuts.
+Cook the quinoa in stock since it absorbs a lot of the liquid this actually makes a noticeable difference.  Put the chickpeas into the quinoa once it's ready, leave the quinoa to rest for a bit once it's ready so that it absorbs as much of the stock as possible. 
+
+Serve the curry on the quinoa and add coriander, lemon and peanuts to taste.
