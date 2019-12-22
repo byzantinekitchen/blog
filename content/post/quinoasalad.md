@@ -3,7 +3,7 @@ title: "Quinoa Salad"
 date: 2019-05-04T21:04:46+02:00
 tags: ["quinoa","salad"]
 description: "Quinoa Salad"
-featured_image: '/images/quinoa_salad.jpg'
+featured_image: '/images/quinoa_salad.JPG'
 ---
 
 ### Difficulty: very easy
@@ -11,13 +11,13 @@ featured_image: '/images/quinoa_salad.jpg'
 
 
 ## Ingredients (6 persons):
-- 500g quinoa
-- 80g kale
+- Quinoa (500g)
+- Kale (80g)
 - 4 apples
-- 300g sweet peppers
+- Sweet peppers (300g)
 - 5 spring onions
-- 240g can chickpeas
-- 150g cranberries
+- Canned chickpeas (240g)
+- Cranberries (150g)
 - walnut to taste
 
 ### Seasoning:

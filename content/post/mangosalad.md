@@ -30,6 +30,6 @@ featured_image: '/images/salade_mango_chickpea.jpg'
 
 Peel and cut the mangoes and cucumbers into small pieces. Cut the red peppers into small pieces.
 
-Add the seasoning and chopped coriander, mix everything. 
+Add the chickpeas, seasoning and chopped coriander, mix everything. 
 
 

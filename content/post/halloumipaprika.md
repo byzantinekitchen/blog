@@ -1,8 +1,8 @@
 ---
 title: "Halloumi Paprika"
 date: 2019-09-04T21:04:46+02:00
-tags: ["mango","salad","chickpea"]
-description: "Mango and Chickpeas Salad"
+tags: ["halloumi","gluten-free"]
+description: "Fried Halloumi"
 featured_image: '/images/halloumi.jpeg'
 ---
 
@@ -11,7 +11,7 @@ featured_image: '/images/halloumi.jpeg'
 
 
 ## Ingredients (6 people):
-- Halloumi
+- Halloumi (225g)
 
 
 ### Seasoning:
@@ -22,7 +22,7 @@ featured_image: '/images/halloumi.jpeg'
 - Olive oil
 
 ## Instructions:
-Cut the halloumi into small slices. In a big pan Heat some olive oil, then place the
+Cut the halloumi into small slices. In a big pan heat some olive oil, then place the
 halloumi slices in the pan, add pepper and paprika. Fry until golden on one side then
 turn and add more seasoning. Add thyme to finish with.
 
