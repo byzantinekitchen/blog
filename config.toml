@@ -19,7 +19,7 @@ enableRobotsTXT = true
 [params]
   favicon = ""
   description = "Food"
-  facebook = "https://facebook.com/byzkitchen/"
+  facebook = ""
   twitter = ""
   instagram = ""
   youtube = ""
