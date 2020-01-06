@@ -1,6 +1,6 @@
 ---
 title: "Strawberry and Chocolate Desert"
-date: 2019-09-04T21:04:46+02:00
+date: 2020-01-02T21:04:46+02:00
 tags: ["desert","skyr","chocolate","yogurt"]
 description: "Almond Mascarpone and Skyr"
 featured_image: 'images/strawberrychocolate.jpg'

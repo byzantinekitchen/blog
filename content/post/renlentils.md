@@ -1,6 +1,6 @@
 ---
 title: "Red Lentils and Poached Eggs"
-date: 2019-09-04T21:04:46+02:00
+date: 2020-01-05T21:04:46+02:00
 tags: ["lentils","egg"]
 description: "Creamy red lentils with poached eggs"
 featured_image: '/images/redlentils.jpg'

@@ -1,6 +1,6 @@
 ---
 title: "Mango Salad"
-date: 2019-09-04T21:04:46+02:00
+date: 2019-12-28T21:04:46+02:00
 tags: ["mango","salad","chickpea"]
 description: "Mango and Chickpeas Salad"
 featured_image: '/images/salade_mango_chickpea.jpg'

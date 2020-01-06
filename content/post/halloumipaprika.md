@@ -1,6 +1,6 @@
 ---
 title: "Halloumi Paprika"
-date: 2019-09-04T21:04:46+02:00
+date: 2020-01-06T05:04:46+02:00
 tags: ["halloumi","gluten-free"]
 description: "Fried Halloumi"
 featured_image: '/images/halloumi.jpeg'

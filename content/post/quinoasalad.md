@@ -1,6 +1,6 @@
 ---
 title: "Quinoa Salad"
-date: 2019-05-04T21:04:46+02:00
+date: 2019-12-20T21:04:46+02:00
 tags: ["quinoa","salad"]
 description: "Quinoa Salad"
 featured_image: '/images/quinoa_salad.JPG'
