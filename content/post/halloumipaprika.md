@@ -6,6 +6,9 @@ description: "Fried Halloumi"
 featured_image: '/images/halloumi.jpeg'
 ---
 
+Perfect with a salad on the side or as an amuse-bouche.
+
+
 ### Difficulty: very easy
 ### Time: 10 minutes
 
