@@ -1,5 +1,5 @@
 ---
-title: ""
+title: "Chocolate Spread and Hazelnut truffles"
 date: 2020-04-19T21:04:46+02:00
 tags: ["desert","chocolate"]
 description: "Chocolate Spread and Hazelnut truffles"
